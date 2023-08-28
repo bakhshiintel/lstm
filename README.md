@@ -26,3 +26,17 @@ Daily discharge of Tele Zang station for 60 years.
 ![image](https://github.com/bakhshiintel/lstm-kalmanfilter/assets/98385786/0ae0ff78-aa7e-42db-bcfc-4d25293aae3f)
 
 Curves of observed and predicted streamflow, zooming in on parts of the chart (a and b)
+
+
+
+![image](https://github.com/bakhshiintel/lstm-kalmanfilter/assets/98385786/677abacc-9a43-4ea2-b444-379a0c8e88ba)
+
+ Scatter plots of streamflow forecasting through testing for 60 years, a) LSTM, b) LSTM-KF, c) LSTM-KFS, d) LSTM-UKF, e) LSTM-UKFS
+
+
+
+ ![image](https://github.com/bakhshiintel/lstm-kalmanfilter/assets/98385786/db88d8b4-d2b6-40a5-8fa8-feebcecdbb2e)
+ 
+ Taylor diagram of all methods, a) test, b) train
+
+
